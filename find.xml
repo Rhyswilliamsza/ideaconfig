@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Traversal'" />
-    <option name="defaultScopeName" value="Project 'Traversal'" />
+    <option name="customScope" value="Project 'RushHour'" />
+    <option name="defaultScopeName" value="Project 'RushHour'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Traversal'" />
+    <option name="SEARCH_SCOPE" value="Project 'RushHour'" />
   </component>
 </application>
