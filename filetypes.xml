@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="api" type="PLAIN_TEXT" />
+      <mapping pattern="own02" type="PLAIN_TEXT" />
+      <mapping pattern="own08" type="PLAIN_TEXT" />
+      <mapping pattern="own10" type="PLAIN_TEXT" />
       <mapping pattern="own09" type="PLAIN_TEXT" />
+      <mapping pattern="own05" type="PLAIN_TEXT" />
       <mapping pattern="own07" type="PLAIN_TEXT" />
       <mapping pattern="own06" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="own04" type="PLAIN_TEXT" />
       <mapping pattern="own03" type="PLAIN_TEXT" />
-      <mapping pattern="own02" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="own05" type="PLAIN_TEXT" />
-      <mapping pattern="own10" type="PLAIN_TEXT" />
-      <mapping pattern="own08" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
