@@ -38,8 +38,12 @@
           <option name="url" value="https://rhyswilliamsza@bitbucket.org/RFinc/moms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Rhyswilliamsza/Rhyswilliams.co.za.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="D:\Data\Projects\Intellij" />
   </component>
 </application>
