@@ -42,8 +42,12 @@
           <option name="url" value="https://github.com/Rhyswilliamsza/Rhyswilliams.co.za.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.cs.sun.ac.za/rw214-2017/rw214-project1-19990812.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Data\Projects\Intellij" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
